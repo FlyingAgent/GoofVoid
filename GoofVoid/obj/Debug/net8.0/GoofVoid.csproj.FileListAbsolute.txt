@@ -1,0 +1,14 @@
+C:\Users\joost\RiderProjects\GoofVoid\GoofVoid\bin\Debug\net8.0\GoofVoid.exe
+C:\Users\joost\RiderProjects\GoofVoid\GoofVoid\bin\Debug\net8.0\GoofVoid.deps.json
+C:\Users\joost\RiderProjects\GoofVoid\GoofVoid\bin\Debug\net8.0\GoofVoid.runtimeconfig.json
+C:\Users\joost\RiderProjects\GoofVoid\GoofVoid\bin\Debug\net8.0\GoofVoid.dll
+C:\Users\joost\RiderProjects\GoofVoid\GoofVoid\bin\Debug\net8.0\GoofVoid.pdb
+C:\Users\joost\RiderProjects\GoofVoid\GoofVoid\obj\Debug\net8.0\GoofVoid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joost\RiderProjects\GoofVoid\GoofVoid\obj\Debug\net8.0\GoofVoid.AssemblyInfoInputs.cache
+C:\Users\joost\RiderProjects\GoofVoid\GoofVoid\obj\Debug\net8.0\GoofVoid.AssemblyInfo.cs
+C:\Users\joost\RiderProjects\GoofVoid\GoofVoid\obj\Debug\net8.0\GoofVoid.csproj.CoreCompileInputs.cache
+C:\Users\joost\RiderProjects\GoofVoid\GoofVoid\obj\Debug\net8.0\GoofVoid.dll
+C:\Users\joost\RiderProjects\GoofVoid\GoofVoid\obj\Debug\net8.0\refint\GoofVoid.dll
+C:\Users\joost\RiderProjects\GoofVoid\GoofVoid\obj\Debug\net8.0\GoofVoid.pdb
+C:\Users\joost\RiderProjects\GoofVoid\GoofVoid\obj\Debug\net8.0\GoofVoid.genruntimeconfig.cache
+C:\Users\joost\RiderProjects\GoofVoid\GoofVoid\obj\Debug\net8.0\ref\GoofVoid.dll
